@@ -10,4 +10,4 @@ script:
 services:
   - postgresql
 env:
-  - DATABASE_URL: postgres://postgres@localhost/mysite
+  - DATABASE_URL: postgres://postgres@localhost/tree_labs
